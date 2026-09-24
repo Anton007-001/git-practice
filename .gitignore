@@ -1,0 +1,7 @@
+# Мусор
+*.log
+secret.txt
+__pycache__/
+
+# IDE
+.idea/
